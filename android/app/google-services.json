@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1012816850975",
+    "project_id": "hazrat-first-flutter-app",
+    "storage_bucket": "hazrat-first-flutter-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012816850975:android:4ab1eba9ac70018510252a",
+        "android_client_info": {
+          "package_name": "com.example.first_flutter_app.first_flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012816850975-obpo3602jd3g18hf8q7314pm49b5gt5p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJqP1pIpypew_ITPQ4FdbyZ2SnupFNxdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012816850975-obpo3602jd3g18hf8q7314pm49b5gt5p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
